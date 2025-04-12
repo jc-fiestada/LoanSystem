@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|c:\\users\\johnc\\source\\repos\\loansystem\\loansystem\\services\\userverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|solutionrelative:loansystem\\services\\userverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|c:\\users\\johnc\\source\\repos\\loansystem\\loansystem\\services\\adminmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|solutionrelative:loansystem\\services\\adminmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -20,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|c:\\users\\johnc\\source\\repos\\loansystem\\loansystem\\services\\signupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|solutionrelative:loansystem\\services\\signupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|c:\\users\\johnc\\source\\repos\\loansystem\\loansystem\\services\\userverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|solutionrelative:loansystem\\services\\userverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3307067-822D-4323-A4E5-A399587ED221}|LoanSystem\\LoanSystem.csproj|C:\\Users\\johnc\\source\\repos\\LoanSystem\\loansystem\\forms\\signuptab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -93,11 +93,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BalanceManager.cs",
               "DocumentMoniker": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Services\\BalanceManager.cs",
               "RelativeDocumentMoniker": "LoanSystem\\Services\\BalanceManager.cs",
@@ -132,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -144,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AboutTab.cs",
               "DocumentMoniker": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\AboutTab.cs",
               "RelativeDocumentMoniker": "LoanSystem\\Forms\\AboutTab.cs",
@@ -220,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UserVerifier.cs",
               "DocumentMoniker": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Services\\UserVerifier.cs",
               "RelativeDocumentMoniker": "LoanSystem\\Services\\UserVerifier.cs",
@@ -228,7 +228,8 @@
               "RelativeToolTip": "LoanSystem\\Services\\UserVerifier.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:18:30.87Z"
+              "WhenOpened": "2025-03-10T08:18:30.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -245,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SignUpMethods.cs",
               "DocumentMoniker": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Services\\SignUpMethods.cs",
               "RelativeDocumentMoniker": "LoanSystem\\Services\\SignUpMethods.cs",
@@ -257,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminMethods.cs",
               "DocumentMoniker": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Services\\AdminMethods.cs",
               "RelativeDocumentMoniker": "LoanSystem\\Services\\AdminMethods.cs",

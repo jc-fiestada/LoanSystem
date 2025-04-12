@@ -106,8 +106,7 @@
               "ViewState": "AgIAAE0AAAAAAAAAAAA3wFgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T12:55:06.044Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -128,6 +127,10 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Microsoft.Common.CurrentVersion.targets",
@@ -137,8 +140,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AgIAAFsNAAAAAAAAAAAWwGENAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-04-12T11:55:23.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T11:55:23.258Z"
             },
             {
               "$type": "Document",
@@ -152,10 +154,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T11:49:50.338Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -230,8 +228,7 @@
               "RelativeToolTip": "LoanSystem\\Services\\UserVerifier.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T08:18:30.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T08:18:30.87Z"
             },
             {
               "$type": "Document",
@@ -256,8 +253,7 @@
               "RelativeToolTip": "LoanSystem\\Services\\SignUpMethods.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T05:35:47.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T05:35:47.83Z"
             },
             {
               "$type": "Document",
@@ -267,7 +263,7 @@
               "RelativeDocumentMoniker": "LoanSystem\\Services\\AdminMethods.cs",
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Services\\AdminMethods.cs",
               "RelativeToolTip": "LoanSystem\\Services\\AdminMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T02:31:23.071Z",
               "EditorCaption": ""
@@ -294,8 +290,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\AboutTab.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\AboutTab.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:38:26.3Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T09:38:26.3Z"
             },
             {
               "$type": "Document",
@@ -306,8 +301,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\SignUpTab.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\SignUpTab.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:20:26.568Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T10:20:26.568Z"
             },
             {
               "$type": "Document",
@@ -318,8 +312,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\SignedInTab.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\SignedInTab.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:19:31.773Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T10:19:31.773Z"
             },
             {
               "$type": "Document",
@@ -330,8 +323,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\SignInTab.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\SignInTab.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T10:09:12.719Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T10:09:12.719Z"
             },
             {
               "$type": "Document",
@@ -342,8 +334,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\Form1.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:58:03.417Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T07:58:03.417Z"
             },
             {
               "$type": "Document",
@@ -354,8 +345,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\AdminSignIn.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\AdminSignIn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T07:50:12.438Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T07:50:12.438Z"
             },
             {
               "$type": "Document",
@@ -366,8 +356,7 @@
               "ToolTip": "C:\\Users\\johnc\\source\\repos\\LoanSystem\\LoanSystem\\Forms\\AdminTab.cs [Design]",
               "RelativeToolTip": "LoanSystem\\Forms\\AdminTab.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T02:26:51.072Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T02:26:51.072Z"
             }
           ]
         }
